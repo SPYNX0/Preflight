@@ -7,7 +7,6 @@
 
 👉 **[Latest version / Dernière version](https://github.com/SPYNX0/Preflight/releases/latest)** : download `Preflight-Setup-x.y.z.exe`.
 
----
 
 ## English
 
