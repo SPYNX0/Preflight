@@ -1,0 +1,10 @@
+{
+  "presets": [
+    {
+      "name": "SayIntentions.AI",
+      "match": ["SayIntentionsUpdater3.exe", "SayIntentionsAI.exe"],
+      "processName": "SayIntentionsAI.exe",
+      "requiresAdmin": true
+    }
+  ]
+}
