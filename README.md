@@ -1,4 +1,4 @@
-# Preflight — Addon Launcher
+# Preflight - Addon Launcher
 
 **Launch your flight simulator and all your external addons in one click.**
 *Lancez votre simulateur de vol et tous vos addons externes en un clic.*
